@@ -9,7 +9,7 @@
 ### 1. Choose a programming language of your choice.
 ### 2. Choose a topic for your quiz. Some examples are:
         - Multiple topics with Open Trivia API (https://opentdb.com/api_config.php) 
-        - Holidays (you can choose gather questions e.g. https://www.whiteelephantrules.com/christmas-trivia-questions/)
+        - Holidays (you can gather questions e.g. https://www.whiteelephantrules.com/christmas-trivia-questions/)
 
 ###  3. Develop the game. You can use the following steps as a guide:
         - Player will be able to select a category and answer ten questions from that category
